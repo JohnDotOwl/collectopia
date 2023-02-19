@@ -5,3 +5,4 @@ node_modules/
 /assets/screenshots/
 /dist/
 pnpm-lock.yaml
+user_data_dir*
